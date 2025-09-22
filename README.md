@@ -7,7 +7,7 @@ Design and query relational databases to practice SQL fundamentals and demonstra
 
 Create Tables  --> Define structured schemas with primary keys and constraints.
 
-Insert Records --> Populate tables with sample datasets (pets, exercise/health).
+Insert Records --> Populate tables with sample datasets (exercise, health).
 
 Update Data  --> Modify records (e.g., add Quantity or Effort_Level to track changes).
 
