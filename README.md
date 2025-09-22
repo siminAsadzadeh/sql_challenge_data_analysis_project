@@ -1,5 +1,8 @@
 # sql_challenge_data_analysis_project
 
+### Here is the table scema
+
+
 ```mermaid
 erDiagram
     WORKOUTLOG {
