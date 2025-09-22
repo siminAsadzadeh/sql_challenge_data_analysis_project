@@ -5,7 +5,8 @@
 -- CALORIES_BURNED (decimal), and 
 -- SESSIONDATE (date).
 
-Answer: 
+-- Answer: 
+
 CREATE TABLE WORKOUTLOG (
   ID INTEGER NOT NULL,
   EXERCISE CHAR(20),
