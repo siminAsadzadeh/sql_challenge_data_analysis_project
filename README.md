@@ -15,7 +15,7 @@ Alter Tables  --> Rename columns and extend schema to reflect new requirements.
 
 Analyze Data  --> Query tables to explore sales, workouts, or health metrics for insights.
 
-Schema Visualization  --> "Mermaid" ER diagrams included for clear data structure mapping.
+Schema Visualization  --> 'Mermaid' ER diagrams included for clear data structure mapping.
 
 
 ```mermaid
